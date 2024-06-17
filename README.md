@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
 This project is a Tic-Tac-Toe game developed with React and TypeScript, and uses Vite for project development and building.
+You can check the result here: [TicTacToe](https://tictactoe-34i.pages.dev/)
 
 ## Project Structure
 
